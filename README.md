@@ -1,4 +1,4 @@
-# full-stack-software-engineer-study-guide <Version1>
+# Full-Stack Software Engineer Study Guide - Version 1
 
 
 ## Mathematics
@@ -122,3 +122,6 @@
 - [ ] [LeetCode](https://leetcode.com/)
 - [ ] [ES6 Katas](http://es6katas.org/)
 - [ ] [HackerEarth](https://www.hackerearth.com/practice/)
+
+
+Acknowledgements: [p1xt](https://github.com/P1xt/p1xt-guides) and [OSSU](https://github.com/ossu/computer-science)
