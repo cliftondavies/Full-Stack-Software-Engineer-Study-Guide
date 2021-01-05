@@ -1,5 +1,11 @@
 # Full-Stack Software Engineer Study Guide - Version 1
 
+#### Some grounds rules
+- All three main subjects - Maths, CS and Web Development - can be studied side by side.
+- Complete all junior Math courses before starting the Math for CS section.
+- Follow the subject course list in the order presented.
+- Use the suggested books and docs as references only.
+- Solve at least one coding challenge per working day.
 
 ## Mathematics
 #### Courses
