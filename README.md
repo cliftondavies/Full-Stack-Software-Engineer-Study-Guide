@@ -30,7 +30,7 @@
 #### Courses
 - [ ] [How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
 - [ ] [How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
-- [ ] [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)
+- [ ] [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821) OR [Software Design and Architecture Specialization](https://www.coursera.org/specializations/software-design-architecture)
 - [ ] [Software Construction](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/)
 - [ ] [Software Design Patterns](https://www.geeksforgeeks.org/software-design-patterns/)
 - [ ] [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
